@@ -16,4 +16,5 @@ export class ArticleListComponent implements OnInit {
     console.log(this.articles);
   }
 
+
 }
