@@ -6,5 +6,6 @@ export class Article {
       content = '';
       description = '';
       imageUrl = '';
+      imageUrlLarge = '';
 
 }
